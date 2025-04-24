@@ -3541,7 +3541,7 @@
         "requires": ">=23.10.0"
       },
       {
-        "version": "2.3.0",
+        "version": "2.6.0",
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.3.0/nf-schema-2.3.0.zip",
         "date": "2025-01-13T11:17:53.328630575+01:00",
         "sha512sum": "d2f787ca1086851f0fe7b97e2f77b53a186084d1e30e9b441ba3116908783c377d95ffc827dfcc8b15ab783d0d51a8e36638d0a2042963e355203713406f1b7c",
